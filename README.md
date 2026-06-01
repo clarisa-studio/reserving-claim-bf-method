@@ -1,2 +1,13 @@
-# reserving-claim-bf-method
-Ini merupakan project kuliah praktik saya terkait perhitungan nilai cadangan klaim asuransi kendaraan bermotor menggunakan metode Bornhuetter-Ferguson.
+# Reserving Claim - Bornhuetter Ferguson Method
+
+## Deskripsi
+Project ini merupakan analisis perhitungan cadangan klaim asuransi kendaraan bermotor (JP-ASTOR) menggunakan metode Bornhuetter-Ferguson.
+
+## Tujuan
+Menentukan estimasi cadangan klaim berdasarkan data historis klaim.
+
+## Metode
+- Bornhuetter-Ferguson
+
+## Author
+Clarisa
